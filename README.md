@@ -3,16 +3,15 @@
 
 
 
-The Asset Performance Dashboard API provides CRUD (Create, Read, Update, Delete) operations for managing assets and their performance metrics. It allows users to interact with asset data stored in a MongoDB database
+The Asset Performance Dashboard API facilitates CRUD (Create, Read, Update, Delete) operations to efficiently manage assets and their corresponding performance metrics. This API empowers users to interact seamlessly with asset data stored in a MongoDB database.
 ## Technologies Used
 
-- **FastAPI**: FastAPI is a modern, fast (high-performance), web framework for building APIs with Python.
-- **MongoDB**: MongoDB is a NoSQL database program that uses JSON-like documents with optional schemas.
+- **FastAPI**: FastAPI stands as a contemporary, high-performance web framework designed for swiftly constructing APIs using Python.
+- **MongoDB**:MongoDB is a NoSQL database program that employs JSON-like documents, optionally utilizing schemas.
 
 ## Run Locally
 ### Running from source
-To run the Asset Performance Dashboard API locally, you need to have Python and MongoDB installed on your system. Here's how to set up and run the API within a virtual environment:
-
+To locally run the Asset Performance Dashboard API, ensure you have Python and MongoDB installed on your system. Follow these steps to set up and execute the API within a virtual environment.
 1. Clone the Repository: 
     ``` 
    git clone https://github.com/your-username/asset-performance-dashboard.git
